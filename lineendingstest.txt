@@ -1,0 +1,4 @@
+This file was created in QtCreator on Windows
+It has CRLF file endings on Windows
+I'm not sure what line endings it will have on GitHub
+Let see
